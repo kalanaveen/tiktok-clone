@@ -1,3 +1,10 @@
+Simple tiktok demo app created by react js.All data are coming from backend which is created by node js.Its basic mern project.
+
+![image](https://user-images.githubusercontent.com/34640475/122669433-ed586100-d1da-11eb-826b-649a705549a6.png)
+
+backend for this 
+https://github.com/kalanaveen/tiktok-backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
